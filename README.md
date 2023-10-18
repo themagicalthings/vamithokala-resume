@@ -5,8 +5,11 @@ Extensive experience as Data Engineer,Tableau Developer. Understand the requirem
 
 ### Skills
 Programming Languages: Java, Python.
+
 Database: MySQl,R,Postgres.
+
 Cloud Technologies : Microsoft Azure.
+
 Web Technologies : HTML,CSS.
 
 ### Experience
